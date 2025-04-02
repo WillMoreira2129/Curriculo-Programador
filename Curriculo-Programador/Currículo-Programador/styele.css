@@ -1,0 +1,55 @@
+
+.inicio{
+
+    text-align: center;
+
+}
+
+
+
+.dados{
+
+    list-style-position: inside; 
+    padding-left: 0;
+    text-align: justify;
+}
+
+.contatos{
+ 
+  margin: 5px 0;
+
+}
+
+.ris{
+
+    background-color: black;
+}
+
+.outer {
+    border: 5px solid black;
+    overflow: scroll;
+    padding: 15px 2%;
+    box-shadow: 0 0 15px black;
+    width: 65%;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+  
+.box {
+    width: 100px;
+    height: 100px;
+    
+  }
+
+  .final{
+
+    text-align: center
+    
+  }
+
+  .img{
+
+    width: 300px;
+    border-radius: 50%;
+  }
